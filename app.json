@@ -20,7 +20,7 @@
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
+      "value": "False"
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
