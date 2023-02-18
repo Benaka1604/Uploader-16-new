@@ -7,10 +7,7 @@ import os
 from pyrogram import Client as Clinton
 from pyrogram import filters
 
-if bool(os.environ.get("WEBHOOK", False)):
-    from sample_config import Config
-else:
-    from config import Config
+from sample_config import Config
 from database.access import clinton
 
 @Clinton.on_message(filters.private & filters.command('total'))
