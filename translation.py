@@ -9,7 +9,7 @@ I ᴀᴍ Tᴇʟᴇɢʀᴀᴍ Mᴏsᴛ Pᴏᴡᴇʀғᴜʟ Uʀʟ Uᴘʟᴏᴀᴅ�
 
 Usᴇ /help ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ.
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @TeleRoidGroup
+Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @muryana_bot
 """
     HELP_TEXT = """
 Lɪɴᴋ ᴛᴏ Mᴇᴅɪᴀ ᴏʀ Fɪʟᴇ
@@ -32,19 +32,17 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ➠ Sᴇɴᴅ /viewthumbnail ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @TheTeleRoid
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @muryana_bot
  
 """
     ABOUT_TEXT = """
-<b>Mʏ ɴᴀᴍᴇ : <a href='http://t.me/UrlUpxBot'>ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a></b>
+<b>Mʏ ɴᴀᴍᴇ : <a href='https://t.me/Uploader16_bot'>ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a></b>
 
-<b>Cʜᴀɴɴᴇʟ : <a href='https://t.me/TeleRoidGroup'>@TᴇʟᴇRᴏɪᴅGʀᴏᴜᴘ</a></b>
+<b>Cʜᴀɴɴᴇʟ : <a href='http://t.me/muryana_movies'>@TᴇʟᴇRᴏɪᴅGʀᴏᴜᴘ</a></b>
 
-<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/TeleRoid14'>@Tᴇʟᴇʀᴏɪᴅ𝟷𝟺</a></b>
+<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/muryana_contact_bot'>@Tᴇʟᴇʀᴏɪᴅ𝟷𝟺</a></b>
 
-<b>Vᴇʀꜱɪᴏɴ : <a href='https://t.me/joinchat/t1ko_FOJxhFiOThl'>2.0 ʙᴇᴛᴀ</a></b>
-
-<b>Sᴏᴜʀᴄᴇ : <a href='https://github.com/PredatorHackerzZ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+<b>Vᴇʀꜱɪᴏɴ : <a href='http://t.me/Muryana_Movies_request_group'>2.0 ʙᴇᴛᴀ</a></b>
 
 <b>Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a></b>
 
@@ -54,7 +52,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 <b>Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MoviesFlixers_DL'>Pʀᴇᴅᴀᴛᴏʀ</a></b>
 
-<b>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/TheTeleRoid'>@TʜᴇTᴇʟᴇRᴏɪᴅ</a></b>
+<b>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='http://t.me/muryana_movies'>@Muryana</a></b>
 
 """
 
@@ -75,7 +73,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙Join Updates Channel ⚙ ', url='https://t.me/TeleRoidGroup')
+        InlineKeyboardButton('⚙Join Updates Channel ⚙ ', url='http://t.me/muryana_movies')
         ],[
         InlineKeyboardButton('🆘 Hᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('👤 Aʙᴏᴜᴛ', callback_data='about')
