@@ -35,4 +35,4 @@ class Config(object):
     # database session name, example: xurluploader
     SESSION_NAME = "Hello"
     # database uri (mongodb)
-    DATABASE_URL = "mongodb://Channakeshava:3NKN96LG"
+    DATABASE_URL = "mongodb+srv://Channakeshava:3NKN96LG@cluster0.ac0uvgi.mongodb.net/?retryWrites=true&w=majority"
